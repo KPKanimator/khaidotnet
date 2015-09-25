@@ -10,6 +10,7 @@ namespace VolskayaGlushakov.KhaiDotNet.JsonSerializer
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("Hi!");
     }
   }
 }
